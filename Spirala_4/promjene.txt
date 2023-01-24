@@ -1,0 +1,9 @@
+Promjene u TabelaPrisustva1.js su:
+Prvi test:Dodavanje negativnih vrijednosti u polje predavanje i vjezbe gdje sa tim padamo prvi test koji provjerava da li su predavanja ili vjzebe manje od 0
+Drugi test:Za drugi test napravili smo promjenu u polju index u prisustvima gdje smo postavili isti index dva puta u istoj sedmici i samim tim izbaciti ce nam error
+Treci test:Za treci test samo smo postavili isti index svim studentima i zbog toga je pao test.
+
+Promjene u TabelaPrisustva2.js su:
+Prvi test:Promjenili smo vrijednost predavanja i vjezbi tako da njihova suma bude drugacija od ocekivane vrijednosti
+Drugi test:Za drugi test samo smo morali dodati trecu sedmicu i automatski pada test.
+Treci test:Samo smo promjenili da vrijednost predavanja i vjezbi bude veca od BrojaPredavanjaSedmicno i BrojaVjezbiSedmicno 
